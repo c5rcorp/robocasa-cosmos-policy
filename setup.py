@@ -20,7 +20,6 @@ setup(
         "numba>=0.56.4",
         "scipy>=1.2.3",
         "mujoco>=3.2.6",
-        "robosuite>=1.5.1",
         "pygame",
         "Pillow",
         "opencv-python",
